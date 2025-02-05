@@ -29,5 +29,11 @@
         android:label="fragment_cart"
         tools:layout="@layout/fragment_cart" />
 
+    <activity
+        android:id="@+id/nav_subway"
+        android:name="com.example.mynavigationdrawer.SubwayActivity"
+        android:label="activity_subway"
+        tools:layout="@layout/activity_subway" />
+
 
 </navigation>
